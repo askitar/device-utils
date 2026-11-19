@@ -1,0 +1,17 @@
+runs/
+*.log
+*-log.txt
+resultado*.txt
+Organizacion-Registro.csv
+Duplicados-Eliminados.csv
+*.reg
+.env*
+!.env.example
+*.pem
+*.key
+node_modules/
+.DS_Store
+Thumbs.db
+.cache/
+out/
+exports/
